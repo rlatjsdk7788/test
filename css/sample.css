@@ -2,17 +2,17 @@
 
 /* navbar 수정 */
 .navbar-marketing.navbar-dark{
-  background-color: red !important;
+  background-color: orange !important;
 }/* 스크롤전 */
 .navbar-marketing.navbar-dark.navbar-scrolled{
-  background-color: teal !important;
+  background-color:orange!important;
 } /* 스크롤 후*/
 
 .page-header{background-image: url(../img/visual.jpg); padding-bottom: 300px;}
 .page-header-content{padding: 300px 0 50px !important;}
 
 /* typing Ani */
-.txt-rotate{color: red;}
+.txt-rotate{color: pink;}
 
 /* chart */
 .chart {
